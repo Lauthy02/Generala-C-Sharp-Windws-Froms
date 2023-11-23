@@ -1,0 +1,9 @@
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\DAL\bin\Debug\DAL.dll
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\DAL\bin\Debug\DAL.pdb
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\DAL\bin\Debug\BE.dll
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\DAL\bin\Debug\BE.pdb
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\DAL\obj\Debug\DAL.dll
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\DAL\obj\Debug\DAL.pdb

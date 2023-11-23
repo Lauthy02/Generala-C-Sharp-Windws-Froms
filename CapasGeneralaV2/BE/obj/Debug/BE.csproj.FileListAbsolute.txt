@@ -1,0 +1,6 @@
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\BE\bin\Debug\BE.dll
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\BE\bin\Debug\BE.pdb
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\BE\obj\Debug\BE.dll
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\BE\obj\Debug\BE.pdb

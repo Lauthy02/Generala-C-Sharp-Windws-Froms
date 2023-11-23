@@ -1,0 +1,17 @@
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\obj\Debug\UI.Generala.resources
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\bin\Debug\UI.exe.config
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\bin\Debug\UI.exe
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\bin\Debug\UI.pdb
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\bin\Debug\BE.dll
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\bin\Debug\BLL.dll
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\bin\Debug\BE.pdb
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\bin\Debug\BLL.pdb
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\obj\Debug\UI.exe
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\obj\Debug\UI.pdb
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\bin\Debug\DAL.dll
+C:\Users\Lauta\OneDrive\Desktop\CapasGeneralaV2\UI\bin\Debug\DAL.pdb
