@@ -1,0 +1,10 @@
+C:\Users\Lauta\OneDrive\Desktop\GeneralaV6\Generala\bin\Debug\Generala.exe.config
+C:\Users\Lauta\OneDrive\Desktop\GeneralaV6\Generala\bin\Debug\Generala.exe
+C:\Users\Lauta\OneDrive\Desktop\GeneralaV6\Generala\bin\Debug\Generala.pdb
+C:\Users\Lauta\OneDrive\Desktop\GeneralaV6\Generala\obj\Debug\Generala.csproj.AssemblyReference.cache
+C:\Users\Lauta\OneDrive\Desktop\GeneralaV6\Generala\obj\Debug\Generala.Form1.resources
+C:\Users\Lauta\OneDrive\Desktop\GeneralaV6\Generala\obj\Debug\Generala.Properties.Resources.resources
+C:\Users\Lauta\OneDrive\Desktop\GeneralaV6\Generala\obj\Debug\Generala.csproj.GenerateResource.cache
+C:\Users\Lauta\OneDrive\Desktop\GeneralaV6\Generala\obj\Debug\Generala.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\OneDrive\Desktop\GeneralaV6\Generala\obj\Debug\Generala.exe
+C:\Users\Lauta\OneDrive\Desktop\GeneralaV6\Generala\obj\Debug\Generala.pdb

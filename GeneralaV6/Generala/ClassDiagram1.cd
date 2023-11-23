@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Generala.JUEGO">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgQAAACAAAAAgAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>JUEGO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generala.CUBILETE">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAEAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CUBILETE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generala.DADO">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DADO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generala.PARTIDA">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIBAFAAAAAAACAAAAAAAAACAAAQAggAEABAAAQAQ=</HashCode>
+      <FileName>PARTIDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generala.PERSONA">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAgAAAAAAAAAACAAAAAgAAAAA=</HashCode>
+      <FileName>PERSONA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generala.TABLADEPUNTAJES">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAEBAAAIAAAAEAAAAAMABAEPwEAAAAFEAAAAAgCPw=</HashCode>
+      <FileName>TABLADEPUNTAJES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generala.ACCESOBD">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAEAAAAAAAAAAAAAAAAAAAAAAAACABAIAAAAIAgAAA=</HashCode>
+      <FileName>ACCESOBD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generala.GESTORPARTIDA">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GESTORPARTIDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generala.GESTORUSUARIO">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GESTORUSUARIO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
